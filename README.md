@@ -1,9 +1,11 @@
 # Project-CRUD_UTSVisual
 
-```
-### Nama : Tyanshi Firli Maharani
-### Kelas : TI.22.A.5
+
+### Nama : Tyanshi Firli Maharani 
 ### Nim : 312210581
-### Matkul : Pemrograman Visual (Desktop)
-### DOSEN : Eko Budiarto, S.KOM., M.M.
-```
+### Kelas : TI.22.A.5
+### MATKUL : Pemrograman Visual (Desktop)
+### DOSEN     : Eko Budiarto, S.KOM., M.M.
+
+
+
